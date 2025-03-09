@@ -107,7 +107,7 @@ header ul li a:hover,.active{
     color: #fff;
     font-size: 25px;
     text-transform: uppercase;
-    transform: translateY(-140px);/*without it napster world will be biheind  use minus value to bring it up*/
+    transform: translateY(-140px);/*without it napster word will be biheind  use minus value to bring it up*/
 
 
 }
